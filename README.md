@@ -11,8 +11,8 @@ The team for the challenge was:
 
 ## How does it work:
 
-  - Simply move your player left and right with normal keys.
-  - Catch all the fruits that are dropping from the sky.
+  - Simply move your player left and right with normal arrow keys.
+  - Catch all fruits dropping from the sky.
   - You have 3 lifes, so if you let one fall, one life is lost.
 
 ## Common Language:
