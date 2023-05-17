@@ -1,7 +1,7 @@
 
 ## Coconut Catch Ball Game 
 
-> Developed during the 5th week of Academia de Código's bootcamp.
+> Developed during the 4th week of Academia de Código's bootcamp.
 
 ## How does it work:
 
