@@ -3,12 +3,6 @@
 
 > Developed during the 5th week of Academia de Código's bootcamp.
 
-The team for the challenge was:
-
-  - Rui Ribeiro.
-  - José Paulo.
-  - João Macieira.
-
 ## How does it work:
 
   - Simply move your player left and right with normal arrow keys.
