@@ -10,10 +10,10 @@
   - You have 3 lifes, so if you let one fall, one life is lost.
 
 ## People involved:
-- Antonio Silva
-- Rui Ribeiro
+- António Silva
 - João Macieira
-- Paulo Soares
+- José Paulo Soares
+- Rui Ribeiro
 
 ## Common Language:
 
