@@ -9,6 +9,11 @@
   - Catch all fruits dropping from the sky.
   - You have 3 lifes, so if you let one fall, one life is lost.
 
+## People involved:
+- Rui Ribeiro
+- João Macieira
+- Paulo Soares
+
 ## Common Language:
 
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
