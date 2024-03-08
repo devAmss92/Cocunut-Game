@@ -1,7 +1,7 @@
 
 ## Coconut Catch Ball Game 
 
-> Developed during the 4th week of Academia de Código's bootcamp, only using SimpleGFX library.
+> Retro game developed during the 4th week of Academia de Código's bootcamp, only using SimpleGFX library.
 
 ## How does it work:
 
